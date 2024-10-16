@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestVendingMachine" project="tabaoex14" tests="14" started="14" failures="0" errors="2" ignored="0">
+  <testsuite name="org.acumen.training.codes.test.TestVendingMachine" time="0.161" displayname="TestVendingMachine" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]">
+    <testsuite name="testInsertValidCoin(org.acumen.training.codes.test.TestVendingMachine)" time="0.114" displayname="testInsertValidCoin(String)" parameters="java.lang.String" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testInsertValidCoin(java.lang.String)]">
+      <testcase name="testInsertValidCoin" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.114" dynamicTest="true" displayname="repetition 1 of 2" parameters="java.lang.String" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testInsertValidCoin(java.lang.String)]/[test-template-invocation:#1]">
+        <error>org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [java.lang.String arg0] in method [public void org.acumen.training.codes.test.TestVendingMachine.testInsertValidCoin(java.lang.String)].
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.IntPipeline$1$1.accept(IntPipeline.java:180)
+	at java.base/java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104)
+	at java.base/java.util.Spliterator$OfInt.forEachRemaining(Spliterator.java:712)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+</error>
+      </testcase>
+      <testcase name="testInsertValidCoin" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.002" dynamicTest="true" displayname="repetition 2 of 2" parameters="java.lang.String" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testInsertValidCoin(java.lang.String)]/[test-template-invocation:#2]">
+        <error>org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [java.lang.String arg0] in method [public void org.acumen.training.codes.test.TestVendingMachine.testInsertValidCoin(java.lang.String)].
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.IntPipeline$1$1.accept(IntPipeline.java:180)
+	at java.base/java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:108)
+	at java.base/java.util.Spliterator$OfInt.forEachRemaining(Spliterator.java:712)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+</error>
+      </testcase>
+      <testcase name="testInsertValidCoin" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.006" dynamicTest="true" displayname="[3] PENNY" parameters="java.lang.String" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testInsertValidCoin(java.lang.String)]/[test-template-invocation:#3]"/>
+      <testcase name="testInsertValidCoin" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.001" dynamicTest="true" displayname="[4] 1" parameters="java.lang.String" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testInsertValidCoin(java.lang.String)]/[test-template-invocation:#4]"/>
+      <testcase name="testInsertValidCoin" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.001" dynamicTest="true" displayname="[5] DIME" parameters="java.lang.String" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testInsertValidCoin(java.lang.String)]/[test-template-invocation:#5]"/>
+      <testcase name="testInsertValidCoin" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.001" dynamicTest="true" displayname="[6] 0" parameters="java.lang.String" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testInsertValidCoin(java.lang.String)]/[test-template-invocation:#6]"/>
+      <testcase name="testInsertValidCoin" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.009" dynamicTest="true" displayname="[7] HALFDOLLAR" parameters="java.lang.String" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testInsertValidCoin(java.lang.String)]/[test-template-invocation:#7]"/>
+      <testcase name="testInsertValidCoin" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.0" dynamicTest="true" displayname="[8] f" parameters="java.lang.String" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testInsertValidCoin(java.lang.String)]/[test-template-invocation:#8]"/>
+    </testsuite>
+    <testsuite name="testReturnCoinsLogs(org.acumen.training.codes.test.TestVendingMachine)" time="0.001" displayname="testReturnCoinsLogs()" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testReturnCoinsLogs()]">
+      <testcase name="testReturnCoinsLogs" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.001" dynamicTest="true" displayname="repetition 1 of 2" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testReturnCoinsLogs()]/[test-template-invocation:#1]"/>
+      <testcase name="testReturnCoinsLogs" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.0" dynamicTest="true" displayname="repetition 2 of 2" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testReturnCoinsLogs()]/[test-template-invocation:#2]"/>
+    </testsuite>
+    <testsuite name="testVendLogs(org.acumen.training.codes.test.TestVendingMachine)" time="0.008" displayname="testVendLogs()" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testVendLogs()]">
+      <testcase name="testVendLogs" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.008" dynamicTest="true" displayname="repetition 1 of 2" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testVendLogs()]/[test-template-invocation:#1]"/>
+      <testcase name="testVendLogs" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.001" dynamicTest="true" displayname="repetition 2 of 2" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testVendLogs()]/[test-template-invocation:#2]"/>
+    </testsuite>
+    <testsuite name="testMixedCoin(org.acumen.training.codes.test.TestVendingMachine)" time="0.006" displayname="testMixedCoin()" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testMixedCoin()]">
+      <testcase name="testMixedCoin" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.007" dynamicTest="true" displayname="repetition 1 of 2" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testMixedCoin()]/[test-template-invocation:#1]"/>
+      <testcase name="testMixedCoin" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.007" dynamicTest="true" displayname="repetition 2 of 2" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[test-template:testMixedCoin()]/[test-template-invocation:#2]"/>
+    </testsuite>
+  </testsuite>
+</testrun>

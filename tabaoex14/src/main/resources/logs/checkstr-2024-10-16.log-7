@@ -1,0 +1,124 @@
+2024/10/16 23:48:23,886 [ INFO ] ChekcStr.java – Start of total with params: 1
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of total, returning: 49
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 49
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 24
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 12
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 6
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 3
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 1
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 0
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: ''
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: 1
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: 11
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: 011
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: 0011
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: 00011
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: 100011
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Instantiated Class ChekcStr
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 2
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of total with params: 2
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of total, returning: 50
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 50
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 25
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 12
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 6
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 3
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 1
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – Start of convert with params: 0
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: ''
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: 1
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: 11
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: 011
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: 0011
+2024/10/16 23:48:23,902 [ INFO ] ChekcStr.java – End of binarise, returning: 10011
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 010011
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of convert, returning: 010011
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of total with params: 2
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of total, returning: 50
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 50
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 25
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 12
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 6
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 3
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 1
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 0
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: ''
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 1
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 11
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 011
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 0011
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 10011
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 010011
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Instantiated Class ChekcStr
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 3
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of total with params: 3
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of total, returning: 51
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 51
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 25
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 12
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 6
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 3
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 1
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 0
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: ''
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 1
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 11
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 011
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 0011
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 10011
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of binarise, returning: 110011
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of convert, returning: 110011
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of total with params: 3
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – End of total, returning: 51
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 51
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 25
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 12
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 6
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 3
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 1
+2024/10/16 23:48:23,903 [ INFO ] ChekcStr.java – Start of convert with params: 0
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: ''
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 1
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 11
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 011
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 0011
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 10011
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 110011
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Instantiated Class ChekcStr
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 4
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of total with params: 4
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of total, returning: 52
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 52
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 26
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 13
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 6
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 3
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 1
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 0
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: ''
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 1
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 11
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 011
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 1011
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 01011
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 001011
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of convert, returning: 001011
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of total with params: 4
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of total, returning: 52
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 52
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 26
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 13
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 6
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 3
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 1
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – Start of convert with params: 0
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: ''
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 1
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 11
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 011
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 1011
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 01011
+2024/10/16 23:48:23,904 [ INFO ] ChekcStr.java – End of binarise, returning: 001011
+2024/10/16 23:48:23,905 [ INFO ] ChekcStr.java – Instantiated Class ChekcStr
+2024/10/16 23:48:23,905 [ INFO ] ChekcStr.java – Start of convert with params: 5
+2024/10/16 23:48:23,905 [ INFO ] ChekcStr.java – Start of total with params: 5

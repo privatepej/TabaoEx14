@@ -1,0 +1,33 @@
+Start of convert with params: 10
+Start of total with params: 10
+Start of total with params: 0
+End of total, returning: 48
+End of total, returning: 97
+Start of convert with params: 97
+Start of convert with params: 48
+Start of convert with params: 24
+Start of convert with params: 12
+Start of convert with params: 6
+Start of convert with params: 3
+Start of convert with params: 1
+Start of convert with params: 0
+End of binarise, returning: ''
+End of binarise, returning: 1
+End of binarise, returning: 11
+End of binarise, returning: 011
+End of binarise, returning: 0011
+End of binarise, returning: 00011
+End of binarise, returning: 000011
+End of binarise, returning: 1000011
+End of convert, returning: 1000011
+Start of total with params: 10
+Start of total with params: 0
+End of total, returning: 48
+End of total, returning: 97
+Start of convert with params: 97
+Start of convert with params: 48
+Start of convert with params: 24
+Start of convert with params: 12
+Start of convert with params: 6
+Start of convert with params: 3
+Start of convert with params: 1

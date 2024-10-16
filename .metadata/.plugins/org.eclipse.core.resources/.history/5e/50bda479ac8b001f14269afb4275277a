@@ -1,0 +1,17 @@
+package org.acumen.training.codes;
+
+import org.apache.logging.log4j.LogManager;
+
+public class SimpleApp {
+	
+	private static final Logger LOGGER = LogManager.getLogger("LOGGER");
+	
+	public int returnOne() {
+		System.out.println("Here's One!");
+		return 1;
+	}
+
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}

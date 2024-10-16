@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestSimpleApp.testApp" project="tabaoex14" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="org.acumen.training.codes.test.TestSimpleApp" time="0.168" displayname="TestSimpleApp" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestSimpleApp]">
+    <testcase name="testApp" classname="org.acumen.training.codes.test.TestSimpleApp" time="0.168" displayname="testApp()" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestSimpleApp]/[method:testApp()]"/>
+  </testsuite>
+</testrun>

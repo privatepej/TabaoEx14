@@ -1,0 +1,49 @@
+name=SBCLogConfig
+
+# Appender (Previously Handler)
+	# ref vars (small caps)
+appenders=consl, file, rollfile
+	# high level name (ALL CAPS)
+appender.consl.name=CONSL
+appender.consl.type=Console
+	# Layout (Previously Formatter)
+appender.consl.layout.type=PatternLayout
+appender.consl.layout.pattern=%d{MMM dd, yyyy hh:mm:ss a} %C %M%n%p: %m%n
+
+appender.file.name=FILE
+appender.file.type=File
+appender.file.fileName=src/files/math2.log
+appender.file.layout.type=PatternLayout
+appender.file.layout.pattern=%d{MMM dd, yyyy hh:mm:ss a} %C %M%n%p: %m%n
+
+appender.rollfile.name=ROLLFILE
+appender.rollfile.type=RollingFile
+appender.rollfile.fileName=src/files/mathroll.log
+appender.rollfile.filePattern=src/files/mathroll.log-%i
+appender.rollfile.policies.type=Policies
+appender.rollfile.policies.size.type=SizeBasedTriggeringPolicy
+appender.rollfile.policies.size.size=1kb
+appender.rollfile.strategy.type=DefaultRolloverStrategy
+appender.rollfile.strategy.max=10
+appender.file.layout.type=PatternLayout
+appender.file.layout.pattern=%d{MMM dd, yyyy hh:mm:ss a} %C %M%n%p: %m%n
+
+	# Loggers
+loggers=logger1, logger2
+logger.logger1.name=LOGGER1
+logger.logger1.level=INFO
+	# additivity=false PARA MAG ISA LANG SYA MAG RUN
+logger.logger1.additivity=false
+logger.logger1.appenderRefs=file
+logger.logger1.appenderRef.file.ref=FILE
+
+logger.logger2.name=LOGGER2
+logger.logger2.level=INFO
+logger.logger2.additivity=false
+logger.logger2.appenderRefs=rollfile
+logger.logger2.appenderRef.rollfile.ref=ROLLFILE
+
+
+rootLogger.level=INFO
+rootLogger.appenderRefs=consl
+rootLogger.appenderRef.consl.ref=CONSL

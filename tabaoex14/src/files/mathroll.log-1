@@ -1,0 +1,33 @@
+Start of convert with params: 3
+Start of convert with params: 1
+Start of convert with params: 0
+End of binarise, returning: ''
+End of binarise, returning: 1
+End of binarise, returning: 11
+End of binarise, returning: 011
+End of binarise, returning: 1011
+End of binarise, returning: 11011
+End of binarise, returning: 111011
+End of convert, returning: 111011
+Start of total with params: 7
+End of total, returning: 55
+Start of convert with params: 55
+Start of convert with params: 27
+Start of convert with params: 13
+Start of convert with params: 6
+Start of convert with params: 3
+Start of convert with params: 1
+Start of convert with params: 0
+End of binarise, returning: ''
+End of binarise, returning: 1
+End of binarise, returning: 11
+End of binarise, returning: 011
+End of binarise, returning: 1011
+End of binarise, returning: 11011
+End of binarise, returning: 111011
+Instantiated Class ChekcStr
+Start of convert with params: 8
+Start of total with params: 8
+End of total, returning: 56
+Start of convert with params: 56
+Start of convert with params: 28

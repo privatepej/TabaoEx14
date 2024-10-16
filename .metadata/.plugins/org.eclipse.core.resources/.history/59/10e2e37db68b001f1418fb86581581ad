@@ -1,0 +1,7 @@
+2024/10/16 20:01:57,620 [ INFO ] ChekcStr.java – End of binarise, returning: ''
+2024/10/16 20:01:57,623 [ INFO ] ChekcStr.java – End of binarise, returning: 1
+2024/10/16 20:01:57,623 [ INFO ] ChekcStr.java – End of binarise, returning: 01
+2024/10/16 20:01:57,623 [ INFO ] ChekcStr.java – End of binarise, returning: 001
+2024/10/16 20:01:57,623 [ INFO ] ChekcStr.java – End of binarise, returning: 0001
+2024/10/16 20:01:57,623 [ INFO ] ChekcStr.java – End of binarise, returning: 00001
+2024/10/16 20:01:57,623 [ INFO ] ChekcStr.java – End of binarise, returning: 000001

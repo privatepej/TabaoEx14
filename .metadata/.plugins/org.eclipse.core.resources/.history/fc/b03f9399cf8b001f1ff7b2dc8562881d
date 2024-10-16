@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration name="SBCLogConfig">
+
+	<Appenders>
+
+		<Console name="CONSL" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{MMM dd, yyyy hh:mm:ss a} %C %M%n%p: %m%n" />
+		</Console>
+
+		<File name="FILE"
+			fileName="src/main/resources/logs/simple_app.log">
+			<PatternLayout
+				pattern="%level - %d{yyyy-MM-dd HH:mm:ss,SSS} - %F – %msg%n" />
+		</File>
+
+		<RollingFile name="ROLLINGFILEARRAY"
+			fileName="src/main/resources/logs/traparray.log"
+			filePattern="src/main/resources/logs/traparray-%d{yyyy-MM-dd}.log-%i">
+			<PatternLayout pattern="%-5p: %m (%d{yyyy-MM-dd})%n" />
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1"
+					modulate="true" />
+			</Policies>
+		</RollingFile>
+
+		<RollingFile name="ROLLINGFILE"
+			fileName="src/main/resources/logs/checkstr.log"
+			filePattern="src/main/resources/logs/checkstr-%d{yyyy-MM-dd}.log-%i">
+			<PatternLayout
+				pattern="%d{yyyy/MM/dd HH:mm:ss,SSS} [ %level ] %F – %msg%n" />
+			<Policies>
+				<SizeBasedTriggeringPolicy size="10kb" />
+				<TimeBasedTriggeringPolicy interval="1"
+					modulate="true" />
+			</Policies>
+			<DefaultRolloverStrategy max="10" />
+		</RollingFile>
+
+		<RollingFile name="HTMLLOGGER"
+			fileName="src/main/resources/logs/vendo_log.html"
+			filePattern="src/main/resources/logs/vendo_log-%d{yyyy-MM-dd}-%i.html">
+			<HtmlLayout charset="UTF-8" title="Vendo logs"
+				locationInfo="false" />
+			<Policies>
+				<SizeBasedTriggeringPolicy size="10mb" />
+			</Policies>
+		</RollingFile>
+	</Appenders>
+
+	<Loggers>
+		<Logger name="LOGGER" level="INFO" additivity="false">
+			<AppenderRef ref="FILE" />
+		</Logger>
+
+		<Logger name="LOGGER2" level="INFO" additivity="false">
+			<AppenderRef ref="ROLLINGFILE" />
+		</Logger>
+
+		<Logger name="LOGGER3" level="INFO" additivity="false">
+			<AppenderRef ref="ROLLINGFILEARRAY" />
+		</Logger>
+
+		<Logger name="LOGGER4" level="INFO" additivity="false">
+			<appender-ref ref="HTMLLOGGER" />
+		</Logger>
+
+		<Root level="INFO" additivity="false">
+			<AppenderRef ref="CONSL" />
+		</Root>
+	</Loggers>
+
+</Configuration>

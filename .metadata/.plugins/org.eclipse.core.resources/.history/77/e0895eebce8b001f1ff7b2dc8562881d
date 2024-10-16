@@ -1,0 +1,38 @@
+package org.acumen.training.codes.test;
+
+import org.acumen.training.codes.Coin;
+import org.acumen.training.codes.VendingMachine;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.MethodOrderer;
+import org.junit.jupiter.api.RepeatedTest;
+import org.junit.jupiter.api.TestMethodOrder;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.ValueSource;
+
+@TestMethodOrder(MethodOrderer.OrderAnnotation.class)
+class TestVendingMachine {
+    private VendingMachine vendingMachine;
+
+	
+	@BeforeEach 
+	public void setup() {
+		vendingMachine = new VendingMachine();
+	}
+	
+	@AfterEach 
+	public void teardown() {
+		vendingMachine = null;
+	}
+	
+
+	@RepeatedTest(30)
+	@ParameterizedTest
+	@ValueSource(strings = {"1"," ","3","4","5","6","7","8","9","10"}) 
+    public void testInsertValidCoin(String data) {
+        Coin coin = new Coin(String data);
+        vendingMachine.insert(coin);
+    }
+
+    
+}

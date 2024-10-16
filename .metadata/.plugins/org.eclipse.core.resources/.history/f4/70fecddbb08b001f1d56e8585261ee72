@@ -1,0 +1,38 @@
+package org.acumen.training.codes;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+public class ChekcStr {
+	
+	private static final Logger LOGGER = LogManager.getLogger("LOGGER");
+
+	
+	public ChekcStr() {
+	}
+
+	public String convert(String str) {
+		LOGGER.info("Start of convert with params: {}",str);
+		return binarise(total(str));
+	}
+
+	public int total(String str) {
+		LOGGER.info("Start of total with params: {}",str);
+		if (str == "")
+			return 0;
+		if (str.length() == 1)
+			return ((int) (str.charAt(0)));
+		return ((int) (str.charAt(0))) + total(str.substring(1));
+
+	}
+
+	public String binarise(int givenstrvalue) {
+		LOGGER.info("Start of convert with params: {}",givenstrvalue);
+		if (givenstrvalue == 0)
+			return "";
+		if (givenstrvalue % 2 == 1)
+			return "1" + binarise(givenstrvalue / 2);
+		return "0" + binarise(givenstrvalue / 2);
+	}
+
+}

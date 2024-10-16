@@ -1,0 +1,11 @@
+2024/10/16 20:02:28,499 [ INFO ] ChekcStr.java – Start of convert with params: 4
+2024/10/16 20:02:28,502 [ INFO ] ChekcStr.java – Start of convert with params: 2
+2024/10/16 20:02:28,502 [ INFO ] ChekcStr.java – Start of convert with params: 1
+2024/10/16 20:02:28,502 [ INFO ] ChekcStr.java – Start of convert with params: 0
+2024/10/16 20:02:28,502 [ INFO ] ChekcStr.java – End of binarise, returning: ''
+2024/10/16 20:02:28,502 [ INFO ] ChekcStr.java – End of binarise, returning: 1
+2024/10/16 20:02:28,502 [ INFO ] ChekcStr.java – End of binarise, returning: 01
+2024/10/16 20:02:28,502 [ INFO ] ChekcStr.java – End of binarise, returning: 001
+2024/10/16 20:02:28,502 [ INFO ] ChekcStr.java – End of binarise, returning: 0001
+2024/10/16 20:02:28,502 [ INFO ] ChekcStr.java – End of binarise, returning: 00001
+2024/10/16 20:02:28,502 [ INFO ] ChekcStr.java – End of binarise, returning: 000001

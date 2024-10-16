@@ -1,0 +1,45 @@
+package org.acumen.training.codes.test;
+
+import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
+
+import org.acumen.training.codes.Coin;
+import org.acumen.training.codes.VendingMachine;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+class TestVendingMachine {
+    private VendingMachine vendingMachine;
+
+    @BeforeEach
+    void setUp() {
+        vendingMachine = new VendingMachine();
+    }
+
+    @Test
+    void testInsertValidCoin() {
+        Coin coin = new Coin("50");
+        vendingMachine.insert(coin);
+    }
+
+    @Test
+    void testInsertZeroCoin() {
+        Coin coin = new Coin("0");
+        vendingMachine.insert(coin);
+    }
+
+    @Test
+    void testVendWithSufficientCredit() throws Exception {
+    	 Coin coin = new Coin("670");
+         vendingMachine.insert(coin);
+        assertDoesNotThrow(vendingMachine::vend);
+    }
+
+    @Test
+    void testVendWithInsufficientCredit() throws Exception {
+    	Coin coin = new Coin("67240");
+        vendingMachine.insert(coin);
+        assertThrows(Exception.class, vendingMachine::vend);
+    }
+}

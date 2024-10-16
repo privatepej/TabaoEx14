@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestVendingMachine" project="tabaoex14" tests="4" started="4" failures="1" errors="0" ignored="0">
+  <testsuite name="org.acumen.training.codes.test.TestVendingMachine" time="0.177" displayname="TestVendingMachine" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]">
+    <testcase name="testVendWithSufficientCredit" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.176" displayname="testVendWithSufficientCredit()" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[method:testVendWithSufficientCredit()]">
+      <failure>org.opentest4j.AssertionFailedError: Unexpected exception thrown: java.lang.Exception: Error: negative credit!
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:152)
+	at org.junit.jupiter.api.AssertDoesNotThrow.createAssertionFailedError(AssertDoesNotThrow.java:84)
+	at org.junit.jupiter.api.AssertDoesNotThrow.assertDoesNotThrow(AssertDoesNotThrow.java:53)
+	at org.junit.jupiter.api.AssertDoesNotThrow.assertDoesNotThrow(AssertDoesNotThrow.java:36)
+	at org.junit.jupiter.api.Assertions.assertDoesNotThrow(Assertions.java:3199)
+	at org.acumen.training.codes.test.TestVendingMachine.testVendWithSufficientCredit(TestVendingMachine.java:36)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+Caused by: java.lang.Exception: Error: negative credit!
+	at org.acumen.training.codes.VendingMachine.vend(VendingMachine.java:62)
+	at org.junit.jupiter.api.AssertDoesNotThrow.assertDoesNotThrow(AssertDoesNotThrow.java:49)
+	... 6 more
+
+</failure>
+    </testcase>
+    <testcase name="testVendWithInsufficientCredit" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.0" displayname="testVendWithInsufficientCredit()" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[method:testVendWithInsufficientCredit()]"/>
+    <testcase name="testInsertZeroCoin" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.0" displayname="testInsertZeroCoin()" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[method:testInsertZeroCoin()]"/>
+    <testcase name="testInsertValidCoin" classname="org.acumen.training.codes.test.TestVendingMachine" time="0.0" displayname="testInsertValidCoin()" uniqueid="[engine:junit-jupiter]/[class:org.acumen.training.codes.test.TestVendingMachine]/[method:testInsertValidCoin()]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,6 @@
+Oct 16, 2024 07:00:49 PM org.acumen.training.codes.SimpleApp returnOne
+INFO: Here's One!
+Oct 16, 2024 07:01:05 PM org.acumen.training.codes.SimpleApp returnOne
+INFO: Here's One!
+INFO - 2024-10-16 19:01:48,193 - LOGGER – Here's One!
+INFO - 2024-10-16 19:06:59,615 - SimpleApp.java – Here's One!

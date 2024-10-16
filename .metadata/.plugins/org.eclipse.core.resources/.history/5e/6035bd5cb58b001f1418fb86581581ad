@@ -1,0 +1,1156 @@
+2024/10/16 19:51:50,553 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:50,589 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:50,589 [INFO] binarise – End of binarise, returning: 01
+2024/10/16 19:51:50,589 [INFO] binarise – End of binarise, returning: 001
+2024/10/16 19:51:50,589 [INFO] binarise – End of binarise, returning: 1001
+2024/10/16 19:51:50,590 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,590 [INFO] binarise – Start of convert with params: 10
+2024/10/16 19:51:50,590 [INFO] binarise – Start of convert with params: 5
+2024/10/16 19:51:50,590 [INFO] binarise – Start of convert with params: 2
+2024/10/16 19:51:50,590 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:50,590 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:50,590 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:50,590 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:50,590 [INFO] binarise – End of binarise, returning: 01
+2024/10/16 19:51:50,590 [INFO] binarise – End of binarise, returning: 101
+2024/10/16 19:51:50,590 [INFO] binarise – End of binarise, returning: 0101
+2024/10/16 19:51:50,591 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,592 [INFO] total – Start of total with params: 1
+2024/10/16 19:51:50,592 [INFO] total – End of total, returning: 49
+2024/10/16 19:51:50,592 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,592 [INFO] total – Start of total with params: 2
+2024/10/16 19:51:50,592 [INFO] total – End of total, returning: 50
+2024/10/16 19:51:50,593 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,593 [INFO] total – Start of total with params: 3
+2024/10/16 19:51:50,593 [INFO] total – End of total, returning: 51
+2024/10/16 19:51:50,593 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,593 [INFO] total – Start of total with params: 4
+2024/10/16 19:51:50,593 [INFO] total – End of total, returning: 52
+2024/10/16 19:51:50,593 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,593 [INFO] total – Start of total with params: 5
+2024/10/16 19:51:50,593 [INFO] total – End of total, returning: 53
+2024/10/16 19:51:50,594 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,594 [INFO] total – Start of total with params: 6
+2024/10/16 19:51:50,594 [INFO] total – End of total, returning: 54
+2024/10/16 19:51:50,594 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,595 [INFO] total – Start of total with params: 7
+2024/10/16 19:51:50,595 [INFO] total – End of total, returning: 55
+2024/10/16 19:51:50,595 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,595 [INFO] total – Start of total with params: 8
+2024/10/16 19:51:50,595 [INFO] total – End of total, returning: 56
+2024/10/16 19:51:50,595 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,595 [INFO] total – Start of total with params: 9
+2024/10/16 19:51:50,595 [INFO] total – End of total, returning: 57
+2024/10/16 19:51:50,596 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,596 [INFO] total – Start of total with params: 10
+2024/10/16 19:51:50,596 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:50,596 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:50,596 [INFO] total – End of total, returning: 97
+2024/10/16 19:51:50,597 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,597 [INFO] total – Start of total with params: 1
+2024/10/16 19:51:50,597 [INFO] total – End of total, returning: 49
+2024/10/16 19:51:50,598 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,598 [INFO] total – Start of total with params:  
+2024/10/16 19:51:50,598 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:50,599 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,599 [INFO] total – Start of total with params: 3
+2024/10/16 19:51:50,599 [INFO] total – End of total, returning: 51
+2024/10/16 19:51:50,600 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,600 [INFO] total – Start of total with params: 4
+2024/10/16 19:51:50,600 [INFO] total – End of total, returning: 52
+2024/10/16 19:51:50,600 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,600 [INFO] total – Start of total with params: 5
+2024/10/16 19:51:50,600 [INFO] total – End of total, returning: 53
+2024/10/16 19:51:50,600 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,600 [INFO] total – Start of total with params: 6
+2024/10/16 19:51:50,600 [INFO] total – End of total, returning: 54
+2024/10/16 19:51:50,601 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,601 [INFO] total – Start of total with params: 7
+2024/10/16 19:51:50,601 [INFO] total – End of total, returning: 55
+2024/10/16 19:51:50,601 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,601 [INFO] total – Start of total with params: 8
+2024/10/16 19:51:50,601 [INFO] total – End of total, returning: 56
+2024/10/16 19:51:50,601 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,602 [INFO] total – Start of total with params: 9
+2024/10/16 19:51:50,602 [INFO] total – End of total, returning: 57
+2024/10/16 19:51:50,602 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,602 [INFO] total – Start of total with params: 10
+2024/10/16 19:51:50,602 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:50,602 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:50,602 [INFO] total – End of total, returning: 97
+2024/10/16 19:51:50,603 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,603 [INFO] total – Start of total with params:  
+2024/10/16 19:51:50,603 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:50,603 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,603 [INFO] total – Start of total with params: 
+10001111
+
+2024/10/16 19:51:50,603 [INFO] total – Start of total with params: 10001111
+
+2024/10/16 19:51:50,604 [INFO] total – Start of total with params: 0001111
+
+2024/10/16 19:51:50,604 [INFO] total – Start of total with params: 001111
+
+2024/10/16 19:51:50,604 [INFO] total – Start of total with params: 01111
+
+2024/10/16 19:51:50,604 [INFO] total – Start of total with params: 1111
+
+2024/10/16 19:51:50,604 [INFO] total – Start of total with params: 111
+
+2024/10/16 19:51:50,604 [INFO] total – Start of total with params: 11
+
+2024/10/16 19:51:50,604 [INFO] total – Start of total with params: 1
+
+2024/10/16 19:51:50,604 [INFO] total – Start of total with params: 
+
+2024/10/16 19:51:50,604 [INFO] total – End of total, returning: 10
+2024/10/16 19:51:50,604 [INFO] total – End of total, returning: 59
+2024/10/16 19:51:50,604 [INFO] total – End of total, returning: 108
+2024/10/16 19:51:50,604 [INFO] total – End of total, returning: 157
+2024/10/16 19:51:50,604 [INFO] total – End of total, returning: 206
+2024/10/16 19:51:50,604 [INFO] total – End of total, returning: 254
+2024/10/16 19:51:50,604 [INFO] total – End of total, returning: 302
+2024/10/16 19:51:50,604 [INFO] total – End of total, returning: 350
+2024/10/16 19:51:50,604 [INFO] total – End of total, returning: 399
+2024/10/16 19:51:50,604 [INFO] total – End of total, returning: 409
+2024/10/16 19:51:50,604 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,604 [INFO] total – Start of total with params:       
+2024/10/16 19:51:50,605 [INFO] total – Start of total with params:      
+2024/10/16 19:51:50,605 [INFO] total – Start of total with params:     
+2024/10/16 19:51:50,605 [INFO] total – Start of total with params:    
+2024/10/16 19:51:50,605 [INFO] total – Start of total with params:   
+2024/10/16 19:51:50,605 [INFO] total – Start of total with params:  
+2024/10/16 19:51:50,605 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:50,605 [INFO] total – End of total, returning: 64
+2024/10/16 19:51:50,605 [INFO] total – End of total, returning: 96
+2024/10/16 19:51:50,605 [INFO] total – End of total, returning: 128
+2024/10/16 19:51:50,605 [INFO] total – End of total, returning: 160
+2024/10/16 19:51:50,605 [INFO] total – End of total, returning: 192
+2024/10/16 19:51:50,605 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,605 [INFO] total – Start of total with params: 1
+2024/10/16 19:51:50,605 [INFO] total – End of total, returning: 49
+2024/10/16 19:51:50,606 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,606 [INFO] total – Start of total with params: 2
+2024/10/16 19:51:50,606 [INFO] total – End of total, returning: 50
+2024/10/16 19:51:50,606 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,606 [INFO] total – Start of total with params: 3
+2024/10/16 19:51:50,606 [INFO] total – End of total, returning: 51
+2024/10/16 19:51:50,607 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,607 [INFO] total – Start of total with params: 4
+2024/10/16 19:51:50,607 [INFO] total – End of total, returning: 52
+2024/10/16 19:51:50,607 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,607 [INFO] total – Start of total with params: 5
+2024/10/16 19:51:50,607 [INFO] total – End of total, returning: 53
+2024/10/16 19:51:50,607 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,607 [INFO] total – Start of total with params: 6
+2024/10/16 19:51:50,607 [INFO] total – End of total, returning: 54
+2024/10/16 19:51:50,608 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,608 [INFO] total – Start of total with params: 7
+2024/10/16 19:51:50,608 [INFO] total – End of total, returning: 55
+2024/10/16 19:51:50,608 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,608 [INFO] total – Start of total with params: 8
+2024/10/16 19:51:50,608 [INFO] total – End of total, returning: 56
+2024/10/16 19:51:50,609 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,609 [INFO] total – Start of total with params: 9
+2024/10/16 19:51:50,609 [INFO] total – End of total, returning: 57
+2024/10/16 19:51:50,609 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,609 [INFO] total – Start of total with params: 10
+2024/10/16 19:51:50,626 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:50,628 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:50,629 [INFO] total – End of total, returning: 97
+2024/10/16 19:51:50,631 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,633 [INFO] total – Start of total with params: 1
+2024/10/16 19:51:50,634 [INFO] total – End of total, returning: 49
+2024/10/16 19:51:50,635 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,637 [INFO] total – Start of total with params: 2
+2024/10/16 19:51:50,639 [INFO] total – End of total, returning: 50
+2024/10/16 19:51:50,642 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,644 [INFO] total – Start of total with params: 3
+2024/10/16 19:51:50,646 [INFO] total – End of total, returning: 51
+2024/10/16 19:51:50,649 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,652 [INFO] total – Start of total with params: 4
+2024/10/16 19:51:50,654 [INFO] total – End of total, returning: 52
+2024/10/16 19:51:50,658 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,660 [INFO] total – Start of total with params: 5
+2024/10/16 19:51:50,662 [INFO] total – End of total, returning: 53
+2024/10/16 19:51:50,665 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,667 [INFO] total – Start of total with params: 6
+2024/10/16 19:51:50,670 [INFO] total – End of total, returning: 54
+2024/10/16 19:51:50,672 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,675 [INFO] total – Start of total with params: 7
+2024/10/16 19:51:50,676 [INFO] total – End of total, returning: 55
+2024/10/16 19:51:50,679 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,682 [INFO] total – Start of total with params: 8
+2024/10/16 19:51:50,685 [INFO] total – End of total, returning: 56
+2024/10/16 19:51:50,689 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,691 [INFO] total – Start of total with params: 9
+2024/10/16 19:51:50,694 [INFO] total – End of total, returning: 57
+2024/10/16 19:51:50,698 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,701 [INFO] total – Start of total with params: 10
+2024/10/16 19:51:50,705 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:50,706 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:50,709 [INFO] total – End of total, returning: 97
+2024/10/16 19:51:50,712 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,714 [INFO] total – Start of total with params: 1
+2024/10/16 19:51:50,717 [INFO] total – End of total, returning: 49
+2024/10/16 19:51:50,719 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,722 [INFO] total – Start of total with params: 2
+2024/10/16 19:51:50,724 [INFO] total – End of total, returning: 50
+2024/10/16 19:51:50,726 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,728 [INFO] total – Start of total with params: 3
+2024/10/16 19:51:50,731 [INFO] total – End of total, returning: 51
+2024/10/16 19:51:50,734 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,736 [INFO] total – Start of total with params: 4
+2024/10/16 19:51:50,739 [INFO] total – End of total, returning: 52
+2024/10/16 19:51:50,742 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,744 [INFO] total – Start of total with params: 5
+2024/10/16 19:51:50,747 [INFO] total – End of total, returning: 53
+2024/10/16 19:51:50,750 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,753 [INFO] total – Start of total with params: 6
+2024/10/16 19:51:50,755 [INFO] total – End of total, returning: 54
+2024/10/16 19:51:50,758 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,760 [INFO] total – Start of total with params: 7
+2024/10/16 19:51:50,762 [INFO] total – End of total, returning: 55
+2024/10/16 19:51:50,766 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,772 [INFO] total – Start of total with params: 8
+2024/10/16 19:51:50,775 [INFO] total – End of total, returning: 56
+2024/10/16 19:51:50,777 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,780 [INFO] total – Start of total with params: 9
+2024/10/16 19:51:50,782 [INFO] total – End of total, returning: 57
+2024/10/16 19:51:50,785 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,787 [INFO] total – Start of total with params: 10
+2024/10/16 19:51:50,789 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:50,792 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:50,794 [INFO] total – End of total, returning: 97
+2024/10/16 19:51:50,797 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,799 [INFO] total – Start of total with params:  
+2024/10/16 19:51:50,801 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:50,804 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,807 [INFO] total – Start of total with params:  
+2024/10/16 19:51:50,809 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:50,812 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,815 [INFO] convert – Start of convert with params: 1
+2024/10/16 19:51:50,817 [INFO] total – Start of total with params: 1
+2024/10/16 19:51:50,820 [INFO] total – End of total, returning: 49
+2024/10/16 19:51:50,822 [INFO] binarise – Start of convert with params: 49
+2024/10/16 19:51:50,824 [INFO] binarise – Start of convert with params: 24
+2024/10/16 19:51:50,827 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:50,829 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:50,832 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:50,834 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:50,837 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:50,839 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:50,842 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:50,845 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:50,847 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:50,852 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:50,855 [INFO] binarise – End of binarise, returning: 00011
+2024/10/16 19:51:50,857 [INFO] binarise – End of binarise, returning: 100011
+2024/10/16 19:51:50,860 [INFO] convert – End of convert, returning: 100011
+2024/10/16 19:51:50,863 [INFO] total – Start of total with params: 1
+2024/10/16 19:51:50,866 [INFO] total – End of total, returning: 49
+2024/10/16 19:51:50,869 [INFO] binarise – Start of convert with params: 49
+2024/10/16 19:51:50,871 [INFO] binarise – Start of convert with params: 24
+2024/10/16 19:51:50,874 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:50,876 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:50,878 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:50,881 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:50,883 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:50,886 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:50,889 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:50,891 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:50,893 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:50,895 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:50,898 [INFO] binarise – End of binarise, returning: 00011
+2024/10/16 19:51:50,900 [INFO] binarise – End of binarise, returning: 100011
+2024/10/16 19:51:50,904 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,906 [INFO] convert – Start of convert with params: 2
+2024/10/16 19:51:50,908 [INFO] total – Start of total with params: 2
+2024/10/16 19:51:50,910 [INFO] total – End of total, returning: 50
+2024/10/16 19:51:50,913 [INFO] binarise – Start of convert with params: 50
+2024/10/16 19:51:50,915 [INFO] binarise – Start of convert with params: 25
+2024/10/16 19:51:50,918 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:50,920 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:50,922 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:50,924 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:50,926 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:50,929 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:50,931 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:50,934 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:50,937 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:50,941 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:50,944 [INFO] binarise – End of binarise, returning: 10011
+2024/10/16 19:51:50,946 [INFO] binarise – End of binarise, returning: 010011
+2024/10/16 19:51:50,949 [INFO] convert – End of convert, returning: 010011
+2024/10/16 19:51:50,951 [INFO] total – Start of total with params: 2
+2024/10/16 19:51:50,953 [INFO] total – End of total, returning: 50
+2024/10/16 19:51:50,956 [INFO] binarise – Start of convert with params: 50
+2024/10/16 19:51:50,958 [INFO] binarise – Start of convert with params: 25
+2024/10/16 19:51:50,960 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:50,962 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:50,964 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:50,966 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:50,969 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:50,971 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:50,973 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:50,976 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:50,979 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:50,981 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:50,984 [INFO] binarise – End of binarise, returning: 10011
+2024/10/16 19:51:50,986 [INFO] binarise – End of binarise, returning: 010011
+2024/10/16 19:51:50,990 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:50,993 [INFO] convert – Start of convert with params: 3
+2024/10/16 19:51:50,995 [INFO] total – Start of total with params: 3
+2024/10/16 19:51:50,997 [INFO] total – End of total, returning: 51
+2024/10/16 19:51:51,000 [INFO] binarise – Start of convert with params: 51
+2024/10/16 19:51:51,002 [INFO] binarise – Start of convert with params: 25
+2024/10/16 19:51:51,004 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:51,007 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,010 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,012 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,015 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,018 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,021 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,023 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,025 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,028 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:51,031 [INFO] binarise – End of binarise, returning: 10011
+2024/10/16 19:51:51,034 [INFO] binarise – End of binarise, returning: 110011
+2024/10/16 19:51:51,036 [INFO] convert – End of convert, returning: 110011
+2024/10/16 19:51:51,039 [INFO] total – Start of total with params: 3
+2024/10/16 19:51:51,041 [INFO] total – End of total, returning: 51
+2024/10/16 19:51:51,043 [INFO] binarise – Start of convert with params: 51
+2024/10/16 19:51:51,045 [INFO] binarise – Start of convert with params: 25
+2024/10/16 19:51:51,048 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:51,050 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,052 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,054 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,057 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,059 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,061 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,063 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,066 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,068 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:51,070 [INFO] binarise – End of binarise, returning: 10011
+2024/10/16 19:51:51,073 [INFO] binarise – End of binarise, returning: 110011
+2024/10/16 19:51:51,076 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,079 [INFO] convert – Start of convert with params: 4
+2024/10/16 19:51:51,082 [INFO] total – Start of total with params: 4
+2024/10/16 19:51:51,085 [INFO] total – End of total, returning: 52
+2024/10/16 19:51:51,087 [INFO] binarise – Start of convert with params: 52
+2024/10/16 19:51:51,089 [INFO] binarise – Start of convert with params: 26
+2024/10/16 19:51:51,092 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,094 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,096 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,099 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,101 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,104 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,106 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,108 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,111 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,113 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,117 [INFO] binarise – End of binarise, returning: 01011
+2024/10/16 19:51:51,119 [INFO] binarise – End of binarise, returning: 001011
+2024/10/16 19:51:51,121 [INFO] convert – End of convert, returning: 001011
+2024/10/16 19:51:51,123 [INFO] total – Start of total with params: 4
+2024/10/16 19:51:51,126 [INFO] total – End of total, returning: 52
+2024/10/16 19:51:51,128 [INFO] binarise – Start of convert with params: 52
+2024/10/16 19:51:51,130 [INFO] binarise – Start of convert with params: 26
+2024/10/16 19:51:51,133 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,135 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,137 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,139 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,141 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,144 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,146 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,149 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,151 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,154 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,156 [INFO] binarise – End of binarise, returning: 01011
+2024/10/16 19:51:51,158 [INFO] binarise – End of binarise, returning: 001011
+2024/10/16 19:51:51,161 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,163 [INFO] convert – Start of convert with params: 5
+2024/10/16 19:51:51,166 [INFO] total – Start of total with params: 5
+2024/10/16 19:51:51,168 [INFO] total – End of total, returning: 53
+2024/10/16 19:51:51,171 [INFO] binarise – Start of convert with params: 53
+2024/10/16 19:51:51,173 [INFO] binarise – Start of convert with params: 26
+2024/10/16 19:51:51,175 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,177 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,179 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,182 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,184 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,186 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,188 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,190 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,192 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,194 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,196 [INFO] binarise – End of binarise, returning: 01011
+2024/10/16 19:51:51,199 [INFO] binarise – End of binarise, returning: 101011
+2024/10/16 19:51:51,201 [INFO] convert – End of convert, returning: 101011
+2024/10/16 19:51:51,203 [INFO] total – Start of total with params: 5
+2024/10/16 19:51:51,205 [INFO] total – End of total, returning: 53
+2024/10/16 19:51:51,207 [INFO] binarise – Start of convert with params: 53
+2024/10/16 19:51:51,209 [INFO] binarise – Start of convert with params: 26
+2024/10/16 19:51:51,211 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,213 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,215 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,218 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,220 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,222 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,224 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,226 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,228 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,230 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,232 [INFO] binarise – End of binarise, returning: 01011
+2024/10/16 19:51:51,234 [INFO] binarise – End of binarise, returning: 101011
+2024/10/16 19:51:51,237 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,239 [INFO] convert – Start of convert with params: 6
+2024/10/16 19:51:51,241 [INFO] total – Start of total with params: 6
+2024/10/16 19:51:51,243 [INFO] total – End of total, returning: 54
+2024/10/16 19:51:51,246 [INFO] binarise – Start of convert with params: 54
+2024/10/16 19:51:51,248 [INFO] binarise – Start of convert with params: 27
+2024/10/16 19:51:51,251 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,253 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,255 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,257 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,259 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,262 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,264 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,266 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,269 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,271 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,273 [INFO] binarise – End of binarise, returning: 11011
+2024/10/16 19:51:51,275 [INFO] binarise – End of binarise, returning: 011011
+2024/10/16 19:51:51,277 [INFO] convert – End of convert, returning: 011011
+2024/10/16 19:51:51,279 [INFO] total – Start of total with params: 6
+2024/10/16 19:51:51,282 [INFO] total – End of total, returning: 54
+2024/10/16 19:51:51,285 [INFO] binarise – Start of convert with params: 54
+2024/10/16 19:51:51,287 [INFO] binarise – Start of convert with params: 27
+2024/10/16 19:51:51,289 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,291 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,294 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,296 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,299 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,302 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,304 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,306 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,308 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,310 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,312 [INFO] binarise – End of binarise, returning: 11011
+2024/10/16 19:51:51,314 [INFO] binarise – End of binarise, returning: 011011
+2024/10/16 19:51:51,318 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,320 [INFO] convert – Start of convert with params: 7
+2024/10/16 19:51:51,322 [INFO] total – Start of total with params: 7
+2024/10/16 19:51:51,324 [INFO] total – End of total, returning: 55
+2024/10/16 19:51:51,327 [INFO] binarise – Start of convert with params: 55
+2024/10/16 19:51:51,329 [INFO] binarise – Start of convert with params: 27
+2024/10/16 19:51:51,332 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,335 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,337 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,339 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,341 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,344 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,346 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,348 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,351 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,353 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,355 [INFO] binarise – End of binarise, returning: 11011
+2024/10/16 19:51:51,356 [INFO] binarise – End of binarise, returning: 111011
+2024/10/16 19:51:51,359 [INFO] convert – End of convert, returning: 111011
+2024/10/16 19:51:51,361 [INFO] total – Start of total with params: 7
+2024/10/16 19:51:51,363 [INFO] total – End of total, returning: 55
+2024/10/16 19:51:51,366 [INFO] binarise – Start of convert with params: 55
+2024/10/16 19:51:51,368 [INFO] binarise – Start of convert with params: 27
+2024/10/16 19:51:51,370 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,372 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,374 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,376 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,378 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,380 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,384 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,386 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,388 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,390 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,392 [INFO] binarise – End of binarise, returning: 11011
+2024/10/16 19:51:51,394 [INFO] binarise – End of binarise, returning: 111011
+2024/10/16 19:51:51,397 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,400 [INFO] convert – Start of convert with params: 8
+2024/10/16 19:51:51,402 [INFO] total – Start of total with params: 8
+2024/10/16 19:51:51,404 [INFO] total – End of total, returning: 56
+2024/10/16 19:51:51,407 [INFO] binarise – Start of convert with params: 56
+2024/10/16 19:51:51,409 [INFO] binarise – Start of convert with params: 28
+2024/10/16 19:51:51,411 [INFO] binarise – Start of convert with params: 14
+2024/10/16 19:51:51,413 [INFO] binarise – Start of convert with params: 7
+2024/10/16 19:51:51,416 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,419 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,421 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,423 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,425 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,427 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,429 [INFO] binarise – End of binarise, returning: 111
+2024/10/16 19:51:51,432 [INFO] binarise – End of binarise, returning: 0111
+2024/10/16 19:51:51,434 [INFO] binarise – End of binarise, returning: 00111
+2024/10/16 19:51:51,436 [INFO] binarise – End of binarise, returning: 000111
+2024/10/16 19:51:51,438 [INFO] convert – End of convert, returning: 000111
+2024/10/16 19:51:51,440 [INFO] total – Start of total with params: 8
+2024/10/16 19:51:51,442 [INFO] total – End of total, returning: 56
+2024/10/16 19:51:51,444 [INFO] binarise – Start of convert with params: 56
+2024/10/16 19:51:51,446 [INFO] binarise – Start of convert with params: 28
+2024/10/16 19:51:51,450 [INFO] binarise – Start of convert with params: 14
+2024/10/16 19:51:51,451 [INFO] binarise – Start of convert with params: 7
+2024/10/16 19:51:51,453 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,454 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,455 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,457 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,458 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,459 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,460 [INFO] binarise – End of binarise, returning: 111
+2024/10/16 19:51:51,462 [INFO] binarise – End of binarise, returning: 0111
+2024/10/16 19:51:51,463 [INFO] binarise – End of binarise, returning: 00111
+2024/10/16 19:51:51,465 [INFO] binarise – End of binarise, returning: 000111
+2024/10/16 19:51:51,468 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,470 [INFO] convert – Start of convert with params: 9
+2024/10/16 19:51:51,471 [INFO] total – Start of total with params: 9
+2024/10/16 19:51:51,473 [INFO] total – End of total, returning: 57
+2024/10/16 19:51:51,476 [INFO] binarise – Start of convert with params: 57
+2024/10/16 19:51:51,477 [INFO] binarise – Start of convert with params: 28
+2024/10/16 19:51:51,479 [INFO] binarise – Start of convert with params: 14
+2024/10/16 19:51:51,480 [INFO] binarise – Start of convert with params: 7
+2024/10/16 19:51:51,482 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,483 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,486 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,489 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,491 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,493 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,495 [INFO] binarise – End of binarise, returning: 111
+2024/10/16 19:51:51,496 [INFO] binarise – End of binarise, returning: 0111
+2024/10/16 19:51:51,497 [INFO] binarise – End of binarise, returning: 00111
+2024/10/16 19:51:51,499 [INFO] binarise – End of binarise, returning: 100111
+2024/10/16 19:51:51,500 [INFO] convert – End of convert, returning: 100111
+2024/10/16 19:51:51,501 [INFO] total – Start of total with params: 9
+2024/10/16 19:51:51,503 [INFO] total – End of total, returning: 57
+2024/10/16 19:51:51,504 [INFO] binarise – Start of convert with params: 57
+2024/10/16 19:51:51,506 [INFO] binarise – Start of convert with params: 28
+2024/10/16 19:51:51,507 [INFO] binarise – Start of convert with params: 14
+2024/10/16 19:51:51,509 [INFO] binarise – Start of convert with params: 7
+2024/10/16 19:51:51,511 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,512 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,513 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,514 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,516 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,517 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,518 [INFO] binarise – End of binarise, returning: 111
+2024/10/16 19:51:51,519 [INFO] binarise – End of binarise, returning: 0111
+2024/10/16 19:51:51,520 [INFO] binarise – End of binarise, returning: 00111
+2024/10/16 19:51:51,522 [INFO] binarise – End of binarise, returning: 100111
+2024/10/16 19:51:51,524 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,525 [INFO] convert – Start of convert with params: 10
+2024/10/16 19:51:51,526 [INFO] total – Start of total with params: 10
+2024/10/16 19:51:51,527 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:51,528 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:51,529 [INFO] total – End of total, returning: 97
+2024/10/16 19:51:51,531 [INFO] binarise – Start of convert with params: 97
+2024/10/16 19:51:51,532 [INFO] binarise – Start of convert with params: 48
+2024/10/16 19:51:51,533 [INFO] binarise – Start of convert with params: 24
+2024/10/16 19:51:51,535 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:51,536 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,537 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,538 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,539 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,540 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,542 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,543 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,544 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,546 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:51,547 [INFO] binarise – End of binarise, returning: 00011
+2024/10/16 19:51:51,548 [INFO] binarise – End of binarise, returning: 000011
+2024/10/16 19:51:51,549 [INFO] binarise – End of binarise, returning: 1000011
+2024/10/16 19:51:51,550 [INFO] convert – End of convert, returning: 1000011
+2024/10/16 19:51:51,552 [INFO] total – Start of total with params: 10
+2024/10/16 19:51:51,553 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:51,555 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:51,556 [INFO] total – End of total, returning: 97
+2024/10/16 19:51:51,557 [INFO] binarise – Start of convert with params: 97
+2024/10/16 19:51:51,559 [INFO] binarise – Start of convert with params: 48
+2024/10/16 19:51:51,560 [INFO] binarise – Start of convert with params: 24
+2024/10/16 19:51:51,561 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:51,563 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,565 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,566 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,567 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,569 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,570 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,571 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,573 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,574 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:51,575 [INFO] binarise – End of binarise, returning: 00011
+2024/10/16 19:51:51,577 [INFO] binarise – End of binarise, returning: 000011
+2024/10/16 19:51:51,578 [INFO] binarise – End of binarise, returning: 1000011
+2024/10/16 19:51:51,582 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,585 [INFO] convert – Start of convert with params: 1
+2024/10/16 19:51:51,587 [INFO] total – Start of total with params: 1
+2024/10/16 19:51:51,588 [INFO] total – End of total, returning: 49
+2024/10/16 19:51:51,590 [INFO] binarise – Start of convert with params: 49
+2024/10/16 19:51:51,592 [INFO] binarise – Start of convert with params: 24
+2024/10/16 19:51:51,593 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:51,594 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,596 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,597 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,598 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,599 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,601 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,603 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,605 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,606 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:51,608 [INFO] binarise – End of binarise, returning: 00011
+2024/10/16 19:51:51,609 [INFO] binarise – End of binarise, returning: 100011
+2024/10/16 19:51:51,611 [INFO] convert – End of convert, returning: 100011
+2024/10/16 19:51:51,612 [INFO] total – Start of total with params: 1
+2024/10/16 19:51:51,613 [INFO] total – End of total, returning: 49
+2024/10/16 19:51:51,615 [INFO] binarise – Start of convert with params: 49
+2024/10/16 19:51:51,617 [INFO] binarise – Start of convert with params: 24
+2024/10/16 19:51:51,618 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:51,620 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,622 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,623 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,625 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,626 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,628 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,629 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,630 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,632 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:51,633 [INFO] binarise – End of binarise, returning: 00011
+2024/10/16 19:51:51,635 [INFO] binarise – End of binarise, returning: 100011
+2024/10/16 19:51:51,637 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,639 [INFO] convert – Start of convert with params: 2
+2024/10/16 19:51:51,640 [INFO] total – Start of total with params: 2
+2024/10/16 19:51:51,641 [INFO] total – End of total, returning: 50
+2024/10/16 19:51:51,643 [INFO] binarise – Start of convert with params: 50
+2024/10/16 19:51:51,645 [INFO] binarise – Start of convert with params: 25
+2024/10/16 19:51:51,646 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:51,648 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,649 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,651 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,652 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,654 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,655 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,657 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,658 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,659 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:51,660 [INFO] binarise – End of binarise, returning: 10011
+2024/10/16 19:51:51,661 [INFO] binarise – End of binarise, returning: 010011
+2024/10/16 19:51:51,662 [INFO] convert – End of convert, returning: 010011
+2024/10/16 19:51:51,664 [INFO] total – Start of total with params: 2
+2024/10/16 19:51:51,665 [INFO] total – End of total, returning: 50
+2024/10/16 19:51:51,667 [INFO] binarise – Start of convert with params: 50
+2024/10/16 19:51:51,668 [INFO] binarise – Start of convert with params: 25
+2024/10/16 19:51:51,669 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:51,670 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,672 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,673 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,674 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,676 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,677 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,678 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,679 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,680 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:51,682 [INFO] binarise – End of binarise, returning: 10011
+2024/10/16 19:51:51,683 [INFO] binarise – End of binarise, returning: 010011
+2024/10/16 19:51:51,685 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,686 [INFO] convert – Start of convert with params: 3
+2024/10/16 19:51:51,687 [INFO] total – Start of total with params: 3
+2024/10/16 19:51:51,689 [INFO] total – End of total, returning: 51
+2024/10/16 19:51:51,690 [INFO] binarise – Start of convert with params: 51
+2024/10/16 19:51:51,692 [INFO] binarise – Start of convert with params: 25
+2024/10/16 19:51:51,693 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:51,694 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,695 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,697 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,698 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,699 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,700 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,701 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,703 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,704 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:51,705 [INFO] binarise – End of binarise, returning: 10011
+2024/10/16 19:51:51,706 [INFO] binarise – End of binarise, returning: 110011
+2024/10/16 19:51:51,707 [INFO] convert – End of convert, returning: 110011
+2024/10/16 19:51:51,708 [INFO] total – Start of total with params: 3
+2024/10/16 19:51:51,710 [INFO] total – End of total, returning: 51
+2024/10/16 19:51:51,711 [INFO] binarise – Start of convert with params: 51
+2024/10/16 19:51:51,712 [INFO] binarise – Start of convert with params: 25
+2024/10/16 19:51:51,713 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:51,715 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,716 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,717 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,719 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,720 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,721 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,722 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,723 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,724 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:51,725 [INFO] binarise – End of binarise, returning: 10011
+2024/10/16 19:51:51,727 [INFO] binarise – End of binarise, returning: 110011
+2024/10/16 19:51:51,729 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,730 [INFO] convert – Start of convert with params: 4
+2024/10/16 19:51:51,731 [INFO] total – Start of total with params: 4
+2024/10/16 19:51:51,732 [INFO] total – End of total, returning: 52
+2024/10/16 19:51:51,733 [INFO] binarise – Start of convert with params: 52
+2024/10/16 19:51:51,734 [INFO] binarise – Start of convert with params: 26
+2024/10/16 19:51:51,736 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,737 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,738 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,739 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,740 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,741 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,742 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,743 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,744 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,745 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,747 [INFO] binarise – End of binarise, returning: 01011
+2024/10/16 19:51:51,748 [INFO] binarise – End of binarise, returning: 001011
+2024/10/16 19:51:51,749 [INFO] convert – End of convert, returning: 001011
+2024/10/16 19:51:51,750 [INFO] total – Start of total with params: 4
+2024/10/16 19:51:51,751 [INFO] total – End of total, returning: 52
+2024/10/16 19:51:51,753 [INFO] binarise – Start of convert with params: 52
+2024/10/16 19:51:51,754 [INFO] binarise – Start of convert with params: 26
+2024/10/16 19:51:51,755 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,756 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,757 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,761 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,762 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,763 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,764 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,766 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,767 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,768 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,769 [INFO] binarise – End of binarise, returning: 01011
+2024/10/16 19:51:51,770 [INFO] binarise – End of binarise, returning: 001011
+2024/10/16 19:51:51,772 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,773 [INFO] convert – Start of convert with params: 5
+2024/10/16 19:51:51,774 [INFO] total – Start of total with params: 5
+2024/10/16 19:51:51,775 [INFO] total – End of total, returning: 53
+2024/10/16 19:51:51,776 [INFO] binarise – Start of convert with params: 53
+2024/10/16 19:51:51,777 [INFO] binarise – Start of convert with params: 26
+2024/10/16 19:51:51,778 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,779 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,780 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,782 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,783 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,784 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,785 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,786 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,787 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,788 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,790 [INFO] binarise – End of binarise, returning: 01011
+2024/10/16 19:51:51,791 [INFO] binarise – End of binarise, returning: 101011
+2024/10/16 19:51:51,792 [INFO] convert – End of convert, returning: 101011
+2024/10/16 19:51:51,793 [INFO] total – Start of total with params: 5
+2024/10/16 19:51:51,794 [INFO] total – End of total, returning: 53
+2024/10/16 19:51:51,795 [INFO] binarise – Start of convert with params: 53
+2024/10/16 19:51:51,796 [INFO] binarise – Start of convert with params: 26
+2024/10/16 19:51:51,797 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,799 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,800 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,801 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,803 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,804 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,805 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,806 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,807 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,808 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,810 [INFO] binarise – End of binarise, returning: 01011
+2024/10/16 19:51:51,811 [INFO] binarise – End of binarise, returning: 101011
+2024/10/16 19:51:51,812 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,813 [INFO] convert – Start of convert with params: 6
+2024/10/16 19:51:51,815 [INFO] total – Start of total with params: 6
+2024/10/16 19:51:51,816 [INFO] total – End of total, returning: 54
+2024/10/16 19:51:51,817 [INFO] binarise – Start of convert with params: 54
+2024/10/16 19:51:51,818 [INFO] binarise – Start of convert with params: 27
+2024/10/16 19:51:51,819 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,820 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,821 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,822 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,823 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,824 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,825 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,826 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,827 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,829 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,830 [INFO] binarise – End of binarise, returning: 11011
+2024/10/16 19:51:51,831 [INFO] binarise – End of binarise, returning: 011011
+2024/10/16 19:51:51,832 [INFO] convert – End of convert, returning: 011011
+2024/10/16 19:51:51,833 [INFO] total – Start of total with params: 6
+2024/10/16 19:51:51,834 [INFO] total – End of total, returning: 54
+2024/10/16 19:51:51,835 [INFO] binarise – Start of convert with params: 54
+2024/10/16 19:51:51,836 [INFO] binarise – Start of convert with params: 27
+2024/10/16 19:51:51,837 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,838 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,839 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,840 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,841 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,842 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,843 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,844 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,846 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,847 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,848 [INFO] binarise – End of binarise, returning: 11011
+2024/10/16 19:51:51,849 [INFO] binarise – End of binarise, returning: 011011
+2024/10/16 19:51:51,851 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,852 [INFO] convert – Start of convert with params: 7
+2024/10/16 19:51:51,853 [INFO] total – Start of total with params: 7
+2024/10/16 19:51:51,855 [INFO] total – End of total, returning: 55
+2024/10/16 19:51:51,856 [INFO] binarise – Start of convert with params: 55
+2024/10/16 19:51:51,857 [INFO] binarise – Start of convert with params: 27
+2024/10/16 19:51:51,858 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,859 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,864 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,866 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,867 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,868 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,870 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,871 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,872 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,873 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,874 [INFO] binarise – End of binarise, returning: 11011
+2024/10/16 19:51:51,875 [INFO] binarise – End of binarise, returning: 111011
+2024/10/16 19:51:51,876 [INFO] convert – End of convert, returning: 111011
+2024/10/16 19:51:51,878 [INFO] total – Start of total with params: 7
+2024/10/16 19:51:51,879 [INFO] total – End of total, returning: 55
+2024/10/16 19:51:51,880 [INFO] binarise – Start of convert with params: 55
+2024/10/16 19:51:51,881 [INFO] binarise – Start of convert with params: 27
+2024/10/16 19:51:51,882 [INFO] binarise – Start of convert with params: 13
+2024/10/16 19:51:51,883 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,885 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,886 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,888 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,889 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,890 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,891 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,892 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,893 [INFO] binarise – End of binarise, returning: 1011
+2024/10/16 19:51:51,895 [INFO] binarise – End of binarise, returning: 11011
+2024/10/16 19:51:51,896 [INFO] binarise – End of binarise, returning: 111011
+2024/10/16 19:51:51,897 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,899 [INFO] convert – Start of convert with params: 8
+2024/10/16 19:51:51,900 [INFO] total – Start of total with params: 8
+2024/10/16 19:51:51,901 [INFO] total – End of total, returning: 56
+2024/10/16 19:51:51,902 [INFO] binarise – Start of convert with params: 56
+2024/10/16 19:51:51,903 [INFO] binarise – Start of convert with params: 28
+2024/10/16 19:51:51,904 [INFO] binarise – Start of convert with params: 14
+2024/10/16 19:51:51,905 [INFO] binarise – Start of convert with params: 7
+2024/10/16 19:51:51,906 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,907 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,909 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,910 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,911 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,912 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,913 [INFO] binarise – End of binarise, returning: 111
+2024/10/16 19:51:51,914 [INFO] binarise – End of binarise, returning: 0111
+2024/10/16 19:51:51,915 [INFO] binarise – End of binarise, returning: 00111
+2024/10/16 19:51:51,916 [INFO] binarise – End of binarise, returning: 000111
+2024/10/16 19:51:51,917 [INFO] convert – End of convert, returning: 000111
+2024/10/16 19:51:51,918 [INFO] total – Start of total with params: 8
+2024/10/16 19:51:51,920 [INFO] total – End of total, returning: 56
+2024/10/16 19:51:51,921 [INFO] binarise – Start of convert with params: 56
+2024/10/16 19:51:51,922 [INFO] binarise – Start of convert with params: 28
+2024/10/16 19:51:51,923 [INFO] binarise – Start of convert with params: 14
+2024/10/16 19:51:51,924 [INFO] binarise – Start of convert with params: 7
+2024/10/16 19:51:51,925 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,926 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,927 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,928 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,929 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,930 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,931 [INFO] binarise – End of binarise, returning: 111
+2024/10/16 19:51:51,932 [INFO] binarise – End of binarise, returning: 0111
+2024/10/16 19:51:51,933 [INFO] binarise – End of binarise, returning: 00111
+2024/10/16 19:51:51,935 [INFO] binarise – End of binarise, returning: 000111
+2024/10/16 19:51:51,936 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,938 [INFO] convert – Start of convert with params: 9
+2024/10/16 19:51:51,939 [INFO] total – Start of total with params: 9
+2024/10/16 19:51:51,940 [INFO] total – End of total, returning: 57
+2024/10/16 19:51:51,941 [INFO] binarise – Start of convert with params: 57
+2024/10/16 19:51:51,942 [INFO] binarise – Start of convert with params: 28
+2024/10/16 19:51:51,943 [INFO] binarise – Start of convert with params: 14
+2024/10/16 19:51:51,944 [INFO] binarise – Start of convert with params: 7
+2024/10/16 19:51:51,945 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,946 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,947 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,949 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,950 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,951 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,952 [INFO] binarise – End of binarise, returning: 111
+2024/10/16 19:51:51,953 [INFO] binarise – End of binarise, returning: 0111
+2024/10/16 19:51:51,954 [INFO] binarise – End of binarise, returning: 00111
+2024/10/16 19:51:51,956 [INFO] binarise – End of binarise, returning: 100111
+2024/10/16 19:51:51,957 [INFO] convert – End of convert, returning: 100111
+2024/10/16 19:51:51,958 [INFO] total – Start of total with params: 9
+2024/10/16 19:51:51,959 [INFO] total – End of total, returning: 57
+2024/10/16 19:51:51,960 [INFO] binarise – Start of convert with params: 57
+2024/10/16 19:51:51,961 [INFO] binarise – Start of convert with params: 28
+2024/10/16 19:51:51,962 [INFO] binarise – Start of convert with params: 14
+2024/10/16 19:51:51,963 [INFO] binarise – Start of convert with params: 7
+2024/10/16 19:51:51,964 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,965 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,966 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,967 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,968 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,970 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,971 [INFO] binarise – End of binarise, returning: 111
+2024/10/16 19:51:51,972 [INFO] binarise – End of binarise, returning: 0111
+2024/10/16 19:51:51,973 [INFO] binarise – End of binarise, returning: 00111
+2024/10/16 19:51:51,974 [INFO] binarise – End of binarise, returning: 100111
+2024/10/16 19:51:51,976 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:51,977 [INFO] convert – Start of convert with params: 10
+2024/10/16 19:51:51,978 [INFO] total – Start of total with params: 10
+2024/10/16 19:51:51,979 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:51,980 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:51,981 [INFO] total – End of total, returning: 97
+2024/10/16 19:51:51,982 [INFO] binarise – Start of convert with params: 97
+2024/10/16 19:51:51,983 [INFO] binarise – Start of convert with params: 48
+2024/10/16 19:51:51,984 [INFO] binarise – Start of convert with params: 24
+2024/10/16 19:51:51,985 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:51,987 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:51,988 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:51,989 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:51,990 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:51,991 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:51,992 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:51,993 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:51,994 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:51,995 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:51,996 [INFO] binarise – End of binarise, returning: 00011
+2024/10/16 19:51:51,997 [INFO] binarise – End of binarise, returning: 000011
+2024/10/16 19:51:51,998 [INFO] binarise – End of binarise, returning: 1000011
+2024/10/16 19:51:52,000 [INFO] convert – End of convert, returning: 1000011
+2024/10/16 19:51:52,001 [INFO] total – Start of total with params: 10
+2024/10/16 19:51:52,002 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:52,003 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:52,004 [INFO] total – End of total, returning: 97
+2024/10/16 19:51:52,005 [INFO] binarise – Start of convert with params: 97
+2024/10/16 19:51:52,006 [INFO] binarise – Start of convert with params: 48
+2024/10/16 19:51:52,007 [INFO] binarise – Start of convert with params: 24
+2024/10/16 19:51:52,008 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:52,009 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:52,010 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:52,011 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,012 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,014 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,015 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,016 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:52,017 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:52,018 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:52,019 [INFO] binarise – End of binarise, returning: 00011
+2024/10/16 19:51:52,020 [INFO] binarise – End of binarise, returning: 000011
+2024/10/16 19:51:52,021 [INFO] binarise – End of binarise, returning: 1000011
+2024/10/16 19:51:52,023 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:52,024 [INFO] convert – Start of convert with params: 0
+2024/10/16 19:51:52,025 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:52,027 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:52,028 [INFO] binarise – Start of convert with params: 48
+2024/10/16 19:51:52,029 [INFO] binarise – Start of convert with params: 24
+2024/10/16 19:51:52,030 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:52,031 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:52,032 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:52,033 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,034 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,036 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,037 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,038 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:52,039 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:52,040 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:52,041 [INFO] binarise – End of binarise, returning: 00011
+2024/10/16 19:51:52,042 [INFO] binarise – End of binarise, returning: 000011
+2024/10/16 19:51:52,043 [INFO] convert – End of convert, returning: 000011
+2024/10/16 19:51:52,044 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:52,045 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:52,046 [INFO] binarise – Start of convert with params: 48
+2024/10/16 19:51:52,047 [INFO] binarise – Start of convert with params: 24
+2024/10/16 19:51:52,048 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:52,050 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:52,051 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:52,052 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,053 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,054 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,055 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,056 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:52,057 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:52,058 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:52,059 [INFO] binarise – End of binarise, returning: 00011
+2024/10/16 19:51:52,060 [INFO] binarise – End of binarise, returning: 000011
+2024/10/16 19:51:52,063 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:52,064 [INFO] convert – Start of convert with params: 0
+2024/10/16 19:51:52,065 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:52,066 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:52,067 [INFO] binarise – Start of convert with params: 48
+2024/10/16 19:51:52,068 [INFO] binarise – Start of convert with params: 24
+2024/10/16 19:51:52,069 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:52,070 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:52,071 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:52,073 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,074 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,075 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,076 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,077 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:52,078 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:52,079 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:52,080 [INFO] binarise – End of binarise, returning: 00011
+2024/10/16 19:51:52,081 [INFO] binarise – End of binarise, returning: 000011
+2024/10/16 19:51:52,082 [INFO] convert – End of convert, returning: 000011
+2024/10/16 19:51:52,084 [INFO] total – Start of total with params: 0
+2024/10/16 19:51:52,085 [INFO] total – End of total, returning: 48
+2024/10/16 19:51:52,086 [INFO] binarise – Start of convert with params: 48
+2024/10/16 19:51:52,087 [INFO] binarise – Start of convert with params: 24
+2024/10/16 19:51:52,088 [INFO] binarise – Start of convert with params: 12
+2024/10/16 19:51:52,089 [INFO] binarise – Start of convert with params: 6
+2024/10/16 19:51:52,091 [INFO] binarise – Start of convert with params: 3
+2024/10/16 19:51:52,092 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,093 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,094 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,095 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,096 [INFO] binarise – End of binarise, returning: 11
+2024/10/16 19:51:52,097 [INFO] binarise – End of binarise, returning: 011
+2024/10/16 19:51:52,098 [INFO] binarise – End of binarise, returning: 0011
+2024/10/16 19:51:52,099 [INFO] binarise – End of binarise, returning: 00011
+2024/10/16 19:51:52,100 [INFO] binarise – End of binarise, returning: 000011
+2024/10/16 19:51:52,102 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:52,104 [INFO] convert – Start of convert with params:  
+2024/10/16 19:51:52,105 [INFO] total – Start of total with params:  
+2024/10/16 19:51:52,106 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:52,107 [INFO] binarise – Start of convert with params: 32
+2024/10/16 19:51:52,108 [INFO] binarise – Start of convert with params: 16
+2024/10/16 19:51:52,109 [INFO] binarise – Start of convert with params: 8
+2024/10/16 19:51:52,110 [INFO] binarise – Start of convert with params: 4
+2024/10/16 19:51:52,112 [INFO] binarise – Start of convert with params: 2
+2024/10/16 19:51:52,113 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,114 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,115 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,116 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,118 [INFO] binarise – End of binarise, returning: 01
+2024/10/16 19:51:52,119 [INFO] binarise – End of binarise, returning: 001
+2024/10/16 19:51:52,120 [INFO] binarise – End of binarise, returning: 0001
+2024/10/16 19:51:52,121 [INFO] binarise – End of binarise, returning: 00001
+2024/10/16 19:51:52,122 [INFO] binarise – End of binarise, returning: 000001
+2024/10/16 19:51:52,123 [INFO] convert – End of convert, returning: 000001
+2024/10/16 19:51:52,124 [INFO] total – Start of total with params:  
+2024/10/16 19:51:52,125 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:52,126 [INFO] binarise – Start of convert with params: 32
+2024/10/16 19:51:52,127 [INFO] binarise – Start of convert with params: 16
+2024/10/16 19:51:52,128 [INFO] binarise – Start of convert with params: 8
+2024/10/16 19:51:52,130 [INFO] binarise – Start of convert with params: 4
+2024/10/16 19:51:52,131 [INFO] binarise – Start of convert with params: 2
+2024/10/16 19:51:52,132 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,134 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,135 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,136 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,137 [INFO] binarise – End of binarise, returning: 01
+2024/10/16 19:51:52,138 [INFO] binarise – End of binarise, returning: 001
+2024/10/16 19:51:52,139 [INFO] binarise – End of binarise, returning: 0001
+2024/10/16 19:51:52,140 [INFO] binarise – End of binarise, returning: 00001
+2024/10/16 19:51:52,142 [INFO] binarise – End of binarise, returning: 000001
+2024/10/16 19:51:52,144 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:52,145 [INFO] convert – Start of convert with params:  
+2024/10/16 19:51:52,147 [INFO] total – Start of total with params:  
+2024/10/16 19:51:52,148 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:52,149 [INFO] binarise – Start of convert with params: 32
+2024/10/16 19:51:52,150 [INFO] binarise – Start of convert with params: 16
+2024/10/16 19:51:52,151 [INFO] binarise – Start of convert with params: 8
+2024/10/16 19:51:52,152 [INFO] binarise – Start of convert with params: 4
+2024/10/16 19:51:52,153 [INFO] binarise – Start of convert with params: 2
+2024/10/16 19:51:52,154 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,155 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,156 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,158 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,159 [INFO] binarise – End of binarise, returning: 01
+2024/10/16 19:51:52,160 [INFO] binarise – End of binarise, returning: 001
+2024/10/16 19:51:52,161 [INFO] binarise – End of binarise, returning: 0001
+2024/10/16 19:51:52,162 [INFO] binarise – End of binarise, returning: 00001
+2024/10/16 19:51:52,163 [INFO] binarise – End of binarise, returning: 000001
+2024/10/16 19:51:52,164 [INFO] convert – End of convert, returning: 000001
+2024/10/16 19:51:52,165 [INFO] total – Start of total with params:  
+2024/10/16 19:51:52,167 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:52,168 [INFO] binarise – Start of convert with params: 32
+2024/10/16 19:51:52,169 [INFO] binarise – Start of convert with params: 16
+2024/10/16 19:51:52,170 [INFO] binarise – Start of convert with params: 8
+2024/10/16 19:51:52,171 [INFO] binarise – Start of convert with params: 4
+2024/10/16 19:51:52,172 [INFO] binarise – Start of convert with params: 2
+2024/10/16 19:51:52,173 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,174 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,176 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,177 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,178 [INFO] binarise – End of binarise, returning: 01
+2024/10/16 19:51:52,179 [INFO] binarise – End of binarise, returning: 001
+2024/10/16 19:51:52,180 [INFO] binarise – End of binarise, returning: 0001
+2024/10/16 19:51:52,181 [INFO] binarise – End of binarise, returning: 00001
+2024/10/16 19:51:52,182 [INFO] binarise – End of binarise, returning: 000001
+2024/10/16 19:51:52,184 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:52,186 [INFO] convert – Start of convert with params:  
+2024/10/16 19:51:52,187 [INFO] total – Start of total with params:  
+2024/10/16 19:51:52,188 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:52,189 [INFO] binarise – Start of convert with params: 32
+2024/10/16 19:51:52,190 [INFO] binarise – Start of convert with params: 16
+2024/10/16 19:51:52,191 [INFO] binarise – Start of convert with params: 8
+2024/10/16 19:51:52,192 [INFO] binarise – Start of convert with params: 4
+2024/10/16 19:51:52,193 [INFO] binarise – Start of convert with params: 2
+2024/10/16 19:51:52,195 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,196 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,197 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,198 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,199 [INFO] binarise – End of binarise, returning: 01
+2024/10/16 19:51:52,200 [INFO] binarise – End of binarise, returning: 001
+2024/10/16 19:51:52,202 [INFO] binarise – End of binarise, returning: 0001
+2024/10/16 19:51:52,203 [INFO] binarise – End of binarise, returning: 00001
+2024/10/16 19:51:52,204 [INFO] binarise – End of binarise, returning: 000001
+2024/10/16 19:51:52,205 [INFO] convert – End of convert, returning: 000001
+2024/10/16 19:51:52,206 [INFO] total – Start of total with params:  
+2024/10/16 19:51:52,207 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:52,208 [INFO] binarise – Start of convert with params: 32
+2024/10/16 19:51:52,209 [INFO] binarise – Start of convert with params: 16
+2024/10/16 19:51:52,210 [INFO] binarise – Start of convert with params: 8
+2024/10/16 19:51:52,211 [INFO] binarise – Start of convert with params: 4
+2024/10/16 19:51:52,212 [INFO] binarise – Start of convert with params: 2
+2024/10/16 19:51:52,213 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,214 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,216 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,217 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,218 [INFO] binarise – End of binarise, returning: 01
+2024/10/16 19:51:52,219 [INFO] binarise – End of binarise, returning: 001
+2024/10/16 19:51:52,220 [INFO] binarise – End of binarise, returning: 0001
+2024/10/16 19:51:52,221 [INFO] binarise – End of binarise, returning: 00001
+2024/10/16 19:51:52,222 [INFO] binarise – End of binarise, returning: 000001
+2024/10/16 19:51:52,224 [INFO] <init> – Instantiated Class ChekcStr
+2024/10/16 19:51:52,226 [INFO] convert – Start of convert with params:  
+2024/10/16 19:51:52,227 [INFO] total – Start of total with params:  
+2024/10/16 19:51:52,228 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:52,229 [INFO] binarise – Start of convert with params: 32
+2024/10/16 19:51:52,230 [INFO] binarise – Start of convert with params: 16
+2024/10/16 19:51:52,231 [INFO] binarise – Start of convert with params: 8
+2024/10/16 19:51:52,232 [INFO] binarise – Start of convert with params: 4
+2024/10/16 19:51:52,233 [INFO] binarise – Start of convert with params: 2
+2024/10/16 19:51:52,234 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,235 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,236 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,237 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,238 [INFO] binarise – End of binarise, returning: 01
+2024/10/16 19:51:52,240 [INFO] binarise – End of binarise, returning: 001
+2024/10/16 19:51:52,241 [INFO] binarise – End of binarise, returning: 0001
+2024/10/16 19:51:52,242 [INFO] binarise – End of binarise, returning: 00001
+2024/10/16 19:51:52,243 [INFO] binarise – End of binarise, returning: 000001
+2024/10/16 19:51:52,244 [INFO] convert – End of convert, returning: 000001
+2024/10/16 19:51:52,245 [INFO] total – Start of total with params:  
+2024/10/16 19:51:52,246 [INFO] total – End of total, returning: 32
+2024/10/16 19:51:52,247 [INFO] binarise – Start of convert with params: 32
+2024/10/16 19:51:52,248 [INFO] binarise – Start of convert with params: 16
+2024/10/16 19:51:52,249 [INFO] binarise – Start of convert with params: 8
+2024/10/16 19:51:52,250 [INFO] binarise – Start of convert with params: 4
+2024/10/16 19:51:52,251 [INFO] binarise – Start of convert with params: 2
+2024/10/16 19:51:52,252 [INFO] binarise – Start of convert with params: 1
+2024/10/16 19:51:52,253 [INFO] binarise – Start of convert with params: 0
+2024/10/16 19:51:52,254 [INFO] binarise – End of binarise, returning: ''
+2024/10/16 19:51:52,255 [INFO] binarise – End of binarise, returning: 1
+2024/10/16 19:51:52,256 [INFO] binarise – End of binarise, returning: 01
+2024/10/16 19:51:52,257 [INFO] binarise – End of binarise, returning: 001
+2024/10/16 19:51:52,258 [INFO] binarise – End of binarise, returning: 0001
+2024/10/16 19:51:52,260 [INFO] binarise – End of binarise, returning: 00001
+2024/10/16 19:51:52,261 [INFO] binarise – End of binarise, returning: 000001

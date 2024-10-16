@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration name="SBCLogConfig">
+
+	<Appenders>
+		<Console name="CONSL" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{MMM dd, yyyy hh:mm:ss a} %C %M%n%p: %m%n" />
+		</Console>
+		<File name="FILE"
+			fileName="src/main/resources/logs/simple_app.log">
+			<PatternLayout
+				pattern="%level - %d{yyyy-MM-dd HH:mm:ss,SSS} - %F – %msg%n" />
+		</File>
+		<RollingFile name="ROLLINGFILE"
+			fileName="src/main/resources/logs/checkstr.log"
+			filePattern="src/main/resources/logs/checkstr-%d{yyyy-MM-dd}.log-%i">
+			<PatternLayout
+				pattern="%d{yyyy/MM/dd HH:mm:ss,SSS} [ %level ] %F – %msg%n" />
+			<Policies>
+				<SizeBasedTriggeringPolicy size="10kb" />
+				<TimeBasedTriggeringPolicy interval="1"
+					modulate="true" />
+			</Policies>
+			<DefaultRolloverStrategy max="10" />
+		</RollingFile>
+
+		<RollingFile name="HTMLLOGGER"
+			fileName="src/main/resources/logs/vendo_log.html"
+			filePattern="src/main/resources/logs/vendo_log%d{yyyy-MM-dd}.html">
+			<HTMLLayout charset="UTF-8" title="Vending Machine Logs"
+				locationInfo="false">
+				<Pattern>
+					<PatternMatch key="level" value="ERROR">
+						<Pattern>
+							<tr>
+								<td>%t</td>
+								<td style="color:red;">%p</td>
+								<td>%c{1}</td>
+								<td>%m</td>
+							</tr>
+						</Pattern>
+					</PatternMatch>
+					<PatternMatch key="level" value="INFO">
+						<Pattern>
+							<tr>
+								<td>%t</td>
+								<td style="color:blue;">%p</td>
+								<td>%c{1}</td>
+								<td>%m</td>
+							</tr>
+						</Pattern>
+					</PatternMatch>
+				</Pattern>
+			</HTMLLayout>
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1"
+					modulate="true" />
+				<SizeBasedTriggeringPolicy size="10 MB" />
+			</Policies>
+		</RollingFile>
+
+	</Appenders>
+
+	<Loggers>
+		<Logger name="LOGGER" level="INFO" additivity="false">
+			<AppenderRef ref="FILE" />
+		</Logger>
+		<Logger name="LOGGER2" level="INFO" additivity="false">
+			<AppenderRef ref="ROLLINGFILE" />
+		</Logger>
+		<Logger name="LOGGER4" level="INFO"
+			additivity="false">
+			<appender-ref ref="HTMLLOGGER" />
+		</Logger>
+		<Root level="INFO" additivity="false">
+			<AppenderRef ref="CONSL" />
+		</Root>
+	</Loggers>
+
+</Configuration>
