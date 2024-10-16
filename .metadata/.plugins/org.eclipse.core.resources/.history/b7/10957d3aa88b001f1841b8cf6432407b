@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.acumen.training.codes</groupId>
+  <artifactId>tabaoex14</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>TabaoEx14</name>
+  <description>Exercise 4: Maven, Software Logging and Development</description>
+  <properties>
+	<jdk.source.version>21</jdk.source.version>
+	<jdk.target.version>21</jdk.target.version>
+	<project.encoding>UTF-8</project.encoding>
+  </properties>
+  <dependencies>
+	
+  </dependencies>
+</project>

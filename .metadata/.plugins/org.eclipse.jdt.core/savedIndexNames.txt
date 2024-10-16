@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+/Users/jefreytabao/Training/Demo/TabaoEx14/.metadata/.plugins/org.eclipse.jdt.core
+2579672742.index
+2056196784.index
+1865797976.index
+2815613104.index
+1079099277.index
+3429523737.index
+1479501717.index
