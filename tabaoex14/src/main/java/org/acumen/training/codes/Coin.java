@@ -32,7 +32,7 @@ public class Coin {
 			value = SILVERDOLLAR;
 		else
 			value = INVALID;
-		LOGGER.info("Value: {}.",value);
+		LOGGER.info("Value Coin: {}.",value);
 
 	}
 
